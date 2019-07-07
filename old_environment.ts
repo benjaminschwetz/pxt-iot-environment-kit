@@ -3,7 +3,7 @@
 /**
  * Custom blocks
  */
-//% weight=90 color=#ff7a4b icon="\uf0ee" block="Sensors"
+//% weight=90 color=#ff7a4b icon="\uf0ee" block="Octopus"
 namespace Environment {
 
     // keep track of services
